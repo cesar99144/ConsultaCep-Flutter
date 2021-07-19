@@ -15,7 +15,7 @@ Aplicativo para buscar detalhes de um endereço a partir de um cep informado pel
 <blockquote>
     clonar este repositório para um diretório de sua preferência e executar em um emulador (android studio, genymotion ou até mesmo no navegador, caso utilize o vscode será possível executar no google chrome, edge...)
 </blockquote>
- <a href="ApkGit/consultaCep.apk">Documentação do apk</a><br>
+ <a href="ApkGit/consultaCep.apk">Download do apk</a><br>
 
 <h3>Imagens do projeto</h3>
 <figure>
