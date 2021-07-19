@@ -19,8 +19,8 @@ Aplicativo para buscar detalhes de um endereço a partir de um cep informado pel
 <h3>Imagens do projeto</h3>
 <figure>
     <figcaption>Telas iniciais e de retorno dos dados:</figcaption>
-    <img src="imagensGit/Splash.png"/>
-    <img src="imagens/HomePage.png">
-    <img src="imagens/Retorno.png"/>
+    <img src="imagensGit/Splash.PNG"/>
+    <img src="imagensGit/HomePage.PNG">
+    <img src="imagensGit/Retorno.PNG"/>
 </figure>
 
