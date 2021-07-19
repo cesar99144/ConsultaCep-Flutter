@@ -111,7 +111,7 @@ class _PaginaInicial extends State<PaginaInicial> {
                   style: TextStyle(fontSize: 20),
                   keyboardType: TextInputType.number,
                   decoration: InputDecoration(
-                    hintText: 'xx.xxx.xxx',
+                    hintText: 'xxxxx-xxx',
                     border: null,
                   ),
                 ),
