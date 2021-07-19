@@ -20,7 +20,7 @@ Aplicativo para buscar detalhes de um endereço a partir de um cep informado pel
 <figure>
     <figcaption>Telas iniciais e de retorno dos dados:</figcaption>
     <img src="imagensGit/Splash.PNG"/>
-    <img src="imagensGit/HomePage.PNG">
+    <img src="imagensGit/Consulta.PNG">
     <img src="imagensGit/Retorno.PNG"/>
 </figure>
 
